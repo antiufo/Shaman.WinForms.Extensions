@@ -4,11 +4,10 @@
     "keyFile": "ShamanOpenSourceKey.snk"
   },
   "frameworks": {
-    "net20": {
+    "net35": {
       "frameworkAssemblies": {
         "System.Drawing": "2.0.0",
-        "System.Windows.Forms": "2.0.0",
-        "System.Core": "3.5.0"
+        "System.Windows.Forms": "2.0.0"
       }
     }
   }
